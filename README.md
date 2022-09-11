@@ -44,13 +44,21 @@ ___
 Player Skins 
 
 Umbre : https://umbre.live/skins
+
 Kariyu : https://github.com/chiribear/Kariyu-Skins/blob/main/README.md
+
 Azerite : https://github.com/MumusLeBG/AzeriteSkins/blob/master/README.md
+
 Shigetora : https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912
+
 BTMC : https://btmc.live/skins
+
 Mrekk : https://github.com/DevenRam/mrekk-osu-Skins
+
 Rafis : https://gist.github.com/Dinoxe/0f89bbe0c88ef9d468e49df3da8f8932
+
 Ryuk : https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md
+
 Bloo : https://gist.github.com/Redo7/abf57d67b941dc66f684b6f7b0a8dc01
 
 i am just doing this cuz my github is dead and need to put updates lol
